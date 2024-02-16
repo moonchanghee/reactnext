@@ -1,2 +1,2 @@
 # reactnext
-next
+reactnext
